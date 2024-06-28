@@ -7,7 +7,7 @@ This Library is based on [Translation Agent: Agentic translation using reflectio
 ## Installation
 
 ```bash
-pip install llm-reflection-lib
+pip install llm-reflection
 ```
 
 ## Usage
