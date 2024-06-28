@@ -74,7 +74,6 @@ Here's the converted text in markdown:
 * **Create a prompt template:** This defines the persona of the Large Language Model (LLM), the task to be performed, and any additional context.
 * **Create a LLMReflection object:** This object will be used to interact with the LLM.
 * **Generate text:** The `generate_text` method will generate text using the LLM and then provide reflection suggestions.
-* **Print the results:** The generated text and reflection suggestions will be printed to the console.
 
 ## Reflection Items (These may or may not be used)
 
