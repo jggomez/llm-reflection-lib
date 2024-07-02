@@ -67,8 +67,6 @@ def example_translation():
 
 ```
 
-Here's the converted text in markdown:
-
 ## This code will:
 
 * **Create a prompt template:** This defines the persona of the Large Language Model (LLM), the task to be performed, and any additional context.
